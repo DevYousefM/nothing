@@ -1,4 +1,3 @@
-alert(window.innerHeight, window.innerWidth);
 
 let height = document.getElementById("height"),
   width = document.getElementById("width");
